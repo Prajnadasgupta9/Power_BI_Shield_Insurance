@@ -149,6 +149,5 @@ DCR provides insights into the daily growth rate of the customer base, helping e
 - **Promote Top-Performing Policies:** Highlight and expand marketing efforts around popular policies like "POL4321HEL" and high-revenue policies like "POL2005HEL."
 
 
-Thank you for reading and evaluating my repo :)  Live Dashboard [Link](https://app.powerbi.com/view?r=eyJrIjoiYjAxYWY0ODMtYzg1Yi00MDg4LThhMmQtMDkwZmU1OWYzMzIxIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
-
+Thank you for reading and evaluating my repo :)  Live Dashboard [Link](https://app.powerbi.com/view?r=eyJrIjoiNmIyOTExYWQtMmE5My00NGVhLTk1YmMtODAxM2QwMjNmZjRlIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
