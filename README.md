@@ -120,11 +120,13 @@ DCR provides insights into the daily growth rate of the customer base, helping e
 - Total Revenue = SUM(fact_premiums[final_premium_amt(INR)])
 
 # 5. SHARE
-![Screenshot (309)](https://github.com/user-attachments/assets/5927ac1f-62b3-4480-b003-4acd370f7ebd)
-![Screenshot (310)](https://github.com/user-attachments/assets/5c68c5b8-fa8b-4e1d-8f3d-7bae07c34589)
-![Screenshot (311)](https://github.com/user-attachments/assets/c97a4674-6b4a-4eca-bc41-929efe37f54d)
-![Screenshot (312)](https://github.com/user-attachments/assets/44f4ac83-3688-44a0-a670-d35df17ef822)
-![Screenshot (313)](https://github.com/user-attachments/assets/7225885e-4d64-4931-8ac6-bd4c3687569a)
+<img width="1325" height="742" alt="image" src="https://github.com/user-attachments/assets/98d8fe16-a822-41f1-8a5a-ca998072f73a" />
+<img width="1310" height="736" alt="image" src="https://github.com/user-attachments/assets/c887c1f0-f934-418d-a8cd-713924996d7b" />
+<img width="1307" height="737" alt="image" src="https://github.com/user-attachments/assets/b7fda46c-f3ca-4dd5-a01b-7bd3637dc9f8" />
+<img width="1307" height="736" alt="image" src="https://github.com/user-attachments/assets/25a35ae3-2c89-4fa2-a79c-ee667c6c0dcb" />
+
+
+
 
 # 6. Insights:	
 
